@@ -1,6 +1,6 @@
 # Software Development Projects
 
-Bu repo, yazılım geliştirme sürecindeki teknik çalışmalarımı ve projelerimi içermektedir.
+Bu depo, yazılım geliştirme sürecindeki teknik çalışmalarımı ve projelerimi içermektedir.
 
 # Cpp-Systems-Programming
 Düşük seviyeli programlama ve bellek yönetimi odaklı C++ çalışmaları.
